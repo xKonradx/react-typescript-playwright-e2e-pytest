@@ -1,0 +1,7 @@
+pytest>=7.0.0,<8.0.0
+playwright>=1.40.0
+pytest-playwright>=0.4.0,<0.8.0
+pytest-xdist>=3.0.0
+pytest-html>=3.0.0
+pytest-metadata>=2.0.0
+pytest-playwright-snapshot>=0.2.0
