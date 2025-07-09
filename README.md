@@ -1,4 +1,11 @@
 # TS-React + Playwright-Pytest (Python) Demo
+![Tests](https://github.com/user-attachments/assets/6fb82ab7-a649-429d-82eb-a4116d280ae3)
+![image](https://github.com/user-attachments/assets/82de0b2b-8eee-4da0-8fff-0a8bd1c230a6)
+![image](https://github.com/user-attachments/assets/a6affbb0-6064-4ad0-9136-dad77eb5f193)
+
+
+
+
 
 ## Licencja
 Kod udostępniony wyłącznie do wglądu na potrzeby rekrutacyjne. Wszelkie prawa zastrzeżone. Zakaz modyfikowania, kopiowania i używania w innych celach.
